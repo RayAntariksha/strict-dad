@@ -1,6 +1,6 @@
 # strict-dad
 
-> "Turn your daily schedule into an uncompromised productivity barrier."
+> "The digital parent your focus needs."
 
 `strict-dad` is a desktop application designed to help you stay focused by syncing your daily calendar with active application blocking. Plan your day out hour-by-hour, select which distractions to keep away during specific windows, and let `strict-dad` enforce your discipline.
 
